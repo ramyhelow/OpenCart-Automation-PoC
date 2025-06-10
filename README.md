@@ -32,8 +32,8 @@ This project is based on OpenCart, a popular open-source PHP shopping cart syste
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
-   cd htdocs
+   git clone https://github.com/ramyhelow/OpenCart-Automation-PoC
+   cd OpenCart-Automation-PoC
    ```
 
 2. Set up database:
