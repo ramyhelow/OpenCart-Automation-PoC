@@ -1,0 +1,30 @@
+# PHP
+*.log
+*.tmp
+*.bak
+*.old
+*.swp
+*.swo
+
+# MAMP
+MAMP/*
+MAMP/conf/
+MAMP/logs/
+
+# Cypress
+node_modules/
+.cypress/
+coverage/
+
+# TestCafe
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
